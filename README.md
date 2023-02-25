@@ -2,4 +2,4 @@
 ball bearing calculation program based on FASTSIM
 
 
-Quasi-static simulation tool for angular contact ball bearings
+Quasi-static simulation tool for angular contact ball bearings with 20+ solvers for non-linear equation system
